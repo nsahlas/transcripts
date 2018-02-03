@@ -50,640 +50,125 @@ Otto was saying earlier in a meeting today that we did our first writing session
 
 [Laughter]
 
-**[Susan]:** ... on their lunch hour, if they have a little extra flex to it, they would do that. So we built the tool to be something that people could sign in to from where ever, whenever. We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting
+**[Susan]:** ... on their lunch hour, if they have a little extra flex to it, they would do that. So we built the tool to be something that people could sign in to from where ever, whenever. We had training, from Sina, for a couple of sessions. And the training consisted of a little bit of guideline setting some basic information about the difference between alt and a long description. 
 
-99
-00:08:43,220 --> 00:08:48,160
-Some basic information about the difference between alt and a long description.
+But more than anything, a lot of questions that our folks asked, that don't necessarily come up like in other contexts. Is a picture of Adam and Eve fleeing the Garden of Eden just two naked people running, or is it actually Adam and Eve, how much knowledge do you assume people have really good questions that I have to say, I've said this a lot today, we don't have answers to.
 
-100
-00:08:48,160 --> 00:08:53,900
-But more than anything, a lot of questions that our folks asked, that don't necessarily come up
+We're really just beginning to compile questions and beginning to think about, how institutions and individuals address those. But the group nature of thinking together about description, what is valuable, what works, what is comfortable to do what are valuable descriptions to end users, that's a piece we need to tackle next, is sort of in our sights.
 
-101
-00:08:53,900 --> 00:09:01,120
-like in other contexts. Is a picture of Adam and Eve fleeing the Garden of Eden
+**[Sina]** You have the right groups. So the number of descriptions that these guys have been able to pull off is ... it started after the first three, four hundred?
 
-102
-00:09:01,120 --> 00:09:09,660
-just two naked people running, or is it actually Adam and Eve, how much knowledge do you assume people have
+**[Anna]:** Yeah.
 
-103
-00:09:09,660 --> 00:09:15,040
-really good questions that I have to say, I've said this a lot today, we don't have answers to.
+**[Sina]:** And it is over one thousand now?
 
-104
-00:09:15,040 --> 00:09:18,740
-We're really just beginning to compile questions and beginning to think about,
+**[Anna]:** Actually what was amazing, yeah, it's well over one thousand now. What was amazing was, adding the counter, one of the features I asked Sina to incorporate into the software was a counter, so you could see how many descriptions were in there. How many images were described. To encourage people to keep going.
 
-105
-00:09:18,740 --> 00:09:27,100
-how institutions and individuals address those. But the group nature of thinking together about
+**[Susan]:** There was even some game theory in there.
 
-106
-00:09:27,100 --> 00:09:31,860
-description, what is valuable, what works, what is comfortable to do
+**[Anna]:** Some departments wanted it to become competitive, so there's a counter. And so once the counter was active, we had another Coyote group writing session. We had laptops set up in this room again, set up around the room and everyone was writing in pairs And I was just refreshing the homepage of Coyote every fifteen minutes and watching the number go up And in an hour we went from three or four hundred to over a thousand. And now we're over a thousand and counting
 
-107
-00:09:31,860 --> 00:09:35,540
-what are valuable descriptions to end users, that's a piece we need to tackle next,
+**[Susan]:** Of which a very large number are unreviewed because the people who are supposed to be reviewing are
 
-108
-00:09:35,540 --> 00:09:41,240
-is sort of in our sights.
+**[Sina]:** sitting on either side of me.
 
-109
-00:09:42,520 --> 00:09:47,960
-[Sina] You have the right groups. So the number of descriptions that these guys have been able to pull off
-
-110
-00:09:47,960 --> 00:09:52,640
-is ... it started after the first three, four hundred?
-
-111
-00:09:52,640 --> 00:09:53,680
-[Anna] Yeah.
-
-112
-00:09:53,680 --> 00:09:55,780
-[Sina] And it is over one thousand now?
-
-113
-00:09:55,780 --> 00:09:57,780
-[Anna] Actually what was amazing, yeah, it's well over one thousand now.
-
-114
-00:09:57,780 --> 00:10:05,260
-What was amazing was, adding the counter, one of the features I asked Sina to incorporate into the software
-
-115
-00:10:05,260 --> 00:10:10,480
-was a counter, so you could see how many descriptions were in there. How many images were described.
-
-116
-00:10:10,480 --> 00:10:12,160
-To encourage people to keep going.
-
-117
-00:10:12,160 --> 00:10:15,440
-[Susan] There was even some game theory in there.
-
-118
-00:10:15,440 --> 00:10:19,280
-[Anna] Some departments wanted it to become competitive, so there's a counter.
-
-119
-00:10:19,280 --> 00:10:23,680
-And so once the counter was active, we had another Coyote group writing session.
-
-120
-00:10:23,680 --> 00:10:28,840
-We had laptops set up in this room again, set up around the room and everyone was writing in pairs
-
-121
-00:10:28,840 --> 00:10:37,000
-And I was just refreshing the homepage of Coyote every fifteen minutes and watching the number go up
-
-122
-00:10:37,000 --> 00:10:41,060
-And in an hour we went from three or four hundred to over a thousand.
-
-123
-00:10:41,060 --> 00:10:43,500
-And now we're over a thousand and counting
-
-124
-00:10:43,500 --> 00:10:47,700
-[Susan] Of which a very large number are unreviewed because
-
-125
-00:10:47,700 --> 00:10:52,120
-the people who are supposed to be reviewing are
-
-126
-00:10:52,120 --> 00:10:55,400
-[Sina] sitting on either side of me.
-
-127
-00:10:55,400 --> 00:10:57,420
 [Laughter]
 
-128
-00:10:57,420 --> 00:11:00,560
-[Sina] But that does bring up a good point about the review process.
+**[Sina]:** But that does bring up a good point about the review process. So I mentioned workflow earlier, but kind of casually and didn't define it. So this idea of putting descriptions on images is one thing. Having it really be, again, going back to having accessibility live, I've said this a couple times today, having accessibility live as a first class citizen, as part of projects here, projects plural, means that these descriptions get edited, content matters.
 
-129
-00:11:00,560 --> 00:11:05,600
-So I mentioned workflow earlier, but kind of casually and didn't define it.
+I've seen a lot of upsides, I'm sure you guys have too. My most favorite is accessibility being misspelled. Usually there's a "C" or an "S" missing. And screen readers say it funny. Which is ironic. But that's part of the process here.
 
-130
-00:11:05,600 --> 00:11:11,320
-So this idea of putting descriptions on images is one thing. Having it really be,
+Susan just ... the amount of passion and care that goes into digital media here also goes into the accessibility quality. The quality of the content for accessibility. And the descriptions, actually do you have one? Do you want to read? I can have a screen reader do this as well, and you can go to mcachicago.org and a lot of the graphics there are Oh one quick note, for the folks familiar with short and long description.
 
-131
-00:11:11,320 --> 00:11:15,400
-again, going back to having accessibility live, I've said this a couple times today,
+Right now,  just for now, and I will explain why I am saying this in a second, the long descriptions, the lengthier ones if you will, they are stored as the alt text of the image. Yes, we definitely know that alt text is traditionally done ... 120, 200 characters or less, but the reason we did that was for maximum compatibility, and then later on, in future cycles and iterations of the development cycle for the website, we're actually going to roll out ...
 
-132
-00:11:15,400 --> 00:11:20,800
-having accessibility live as a first class citizen, as part of projects here, projects plural,
-
-133
-00:11:20,800 --> 00:11:24,480
-means that these descriptions get edited, content matters.
-
-134
-00:11:24,480 --> 00:11:27,680
-I've seen a lot of upsides, I'm sure you guys have too.
-
-135
-00:11:27,680 --> 00:11:35,940
-My most favorite is accessibility being misspelled. Usually there's a "C" or an "S" missing.
-
-136
-00:11:35,940 --> 00:11:43,460
-And screen readers say it funny. Which is ironic. But that's part of the process here.
-
-137
-00:11:43,460 --> 00:11:48,520
-Susan just ... the amount of passion and care that goes into digital media here
-
-138
-00:11:48,520 --> 00:11:52,840
-also goes into the accessibility quality. The quality of the content for accessibility.
-
-139
-00:11:52,840 --> 00:11:57,620
-And the descriptions, actually do you have one? 
-Do you want to read?
-
-140
-00:12:00,220 --> 00:12:06,740
-I can have a screen reader do this as well, and you can go to mcachicago.org and a lot of the graphics there are
-
-141
-00:12:07,320 --> 00:12:12,360
-Oh one quick note, for the folks familiar with short and long description.
-
-142
-00:12:12,360 --> 00:12:16,280
-Right now,  just for now, and I will explain why I am saying this in a second,
-
-143
-00:12:16,280 --> 00:12:21,900
-the long descriptions, the lengthier ones if you will, they are stored as the alt text of the image.
-
-144
-00:12:21,900 --> 00:12:28,080
-Yes, we definitely know that alt text is traditionally done ... 120, 200 characters or less,
-
-145
-00:12:28,080 --> 00:12:34,980
-but the reason we did that was for maximum compatibility, and then later on, in future cycles
-
-146
-00:12:34,980 --> 00:12:40,380
-and iterations of the development cycle for the website, we're actually going to roll out ...
-
-147
-00:12:40,380 --> 00:12:41,560
 I can talk about that, right?
 
-148
-00:12:41,560 --> 00:12:42,360
-[Susan] Yes, of course.
+**[Susan]:** Yes, of course.
 
-149
-00:12:42,360 --> 00:12:48,860
-[Sina] We're going to roll out a feature whereby we're making visible,
+**[Sina]:** We're going to roll out a feature whereby we're making visible and I mean that in every sense of the word, not only to screen reader users but also to every user who can see, and what not, the long descriptions and the short descriptions of these images. And the reason that matters is because of something that Susan always brings up, which is when you start talking to people about this stuff and start talking to them about describing it, or whether, just the fact that the stuff exists, say "Oh, I want to see that." and right now it's mainly accessible to using the screen reader, or if you check some things in your browser but we want to make sure that is exposed to all users accessibly, so sure it will be some short descriptions, an alt and a nice widget to expose the longer descriptions for keyboard users but for mouse users and everybody as well so that everybody can benefit from those descriptions.
 
-150
-00:12:48,860 --> 00:12:53,160
-and I mean that in every sense of the word, not only to screen reader users
+**[Anna]:** Because, ostensibly its close viewing of an artwork, and that's been the most exciting part, it opens up these artworks. So, I'm going to read a description written by a curator at the MCA of a painting. I will perhaps show it and you can decide.
 
-151
-00:12:53,160 --> 00:12:59,140
-but also to every user who can see, and what not, the long descriptions and the short descriptions
-
-152
-00:12:59,140 --> 00:13:04,300
-of these images. And the reason that matters is because of something that Susan always brings up,
-
-153
-00:13:04,300 --> 00:13:08,520
-which is when you start talking to people about this stuff and start talking to them about describing it,
-
-154
-00:13:08,520 --> 00:13:12,220
-or whether, just the fact that the stuff exists, say "Oh, I want to see that."
-
-155
-00:13:12,220 --> 00:13:17,100
-and right now it's mainly accessible to using the screen reader, or if you check some things in your browser
-
-156
-00:13:17,100 --> 00:13:21,680
-but we want to make sure that is exposed to all users accessibly, so sure it will be
-
-157
-00:13:21,680 --> 00:13:27,100
-some short descriptions, an alt and a nice widget to expose the longer descriptions for keyboard users
-
-158
-00:13:27,100 --> 00:13:34,720
-but for mouse users and everybody as well so that everybody can benefit from those descriptions.
-
-159
-00:13:34,720 --> 00:13:42,860
-[Anna] Because, ostensibly its close viewing of an artwork, and that's been
-
-160
-00:13:42,860 --> 00:13:45,840
-the most exciting part, it opens up these artworks.
-
-161
-00:13:45,840 --> 00:13:53,480
-So, I'm going to read a description written by a curator at the MCA of a painting.
-
-162
-00:13:53,480 --> 00:13:56,720
-I will perhaps show it and you can decide.
-
-163
-00:13:56,720 --> 00:13:58,040
 [Laughter]
 
-164
-00:13:58,040 --> 00:14:00,600
-[Anna] and this is a long description.
+**[Anna]:** and this is a long description. This painting, a realistic portrait, depicts a young African-American woman in a stylish orange coat. In the lower right corner of the image, she holds a thin paint brush in her hand, alongside a flat palette covered in thicks dabs of paint in a variety of colors. The square composition centers on her face and upper body and she looks directly out at the viewer with a calm but commanding gaze. At first, the dark black hue of her skin almost blends in with the black wall that is directly behind her on the left. But her dark complexion also contrasts with the white background of a partially finished painting that appears behind her on the right. 
 
-165
-00:14:02,100 --> 00:14:07,600
-This painting, a realistic portrait, depicts a young African-American woman in a stylish orange coat.
+Gradually it becomes evident that she is painting a self portrait using a paint by numbers system. On the easel beside her, the figure's face and body are divided up into smaller shapes, each one outlined in light blue. She has filled in a few of them already with bright orange or mint green from her palette, but she isn't strictly following actual colors of her own appearance.
 
-166
-00:14:07,600 --> 00:14:11,480
-In the lower right corner of the image, she holds a thin paint brush in her hand,
+**[Susan]:** So, Anna said that a curator wrote that, I think that was, oh, sorry, microphone. I think it was interesting about this is that, that isn't ... though it was written by a curator, that's not actually how our curators write. 
 
-167
-00:14:11,480 --> 00:14:17,180
-alongside a flat palette covered in thicks dabs of paint in a variety of colors.
+**[Anna]:** Not at all.
 
-168
-00:14:17,180 --> 00:14:22,760
-The square composition centers on her face and upper body and she looks directly out at the viewer
+**[Susan]:** Before I came here, I worked at the Metropolitan Museum of Art and we had a phrase that we used and it always said disabling, which was that, what you, this is a terrible terrible text, it's art history for the blind.
 
-169
-00:14:22,760 --> 00:14:28,480
-with a calm but commanding gaze. At first, the dark black hue of her skin almost blends in
-
-170
-00:14:28,480 --> 00:14:34,060
-with the black wall that is directly behind her on the left. But her dark complexion also contrasts
-
-171
-00:14:34,060 --> 00:14:39,020
-with the white background of a partially finished painting that appears behind her on the right.
-
-172
-00:14:39,020 --> 00:14:44,360
-Gradually it becomes evident that she is painting a self portrait using a paint by numbers system.
-
-173
-00:14:44,360 --> 00:14:48,640
-On the easel beside her, the figure's face and body are divided up into smaller shapes,
-
-174
-00:14:48,640 --> 00:14:53,380
-each one outlined in light blue. She has filled in a few of them already with bright orange
-
-175
-00:14:53,380 --> 00:14:59,460
-or mint green from her palette, but she isn't strictly following actual colors of her own appearance.
-
-176
-00:15:01,080 --> 00:15:12,320
-[Susan] So, Anna said that a curator wrote that, I think that was, oh, sorry, microphone. I think it was interesting
-
-177
-00:15:12,320 --> 00:15:19,140
-about this is that, that isn't ... though it was written by a curator, that's not actually how our curators write.
-
-178
-00:15:19,140 --> 00:15:20,800
-[Anna] Not at all.
-
-179
-00:15:20,800 --> 00:15:28,780
-[Susan] Before I came here, I worked at the Metropolitan Museum of Art and we had a phrase that we used
-
-180
-00:15:28,780 --> 00:15:38,180
-and it always said disabling, which was that, what you, this is a terrible terrible text, it's art history for the blind.
-
-181
-00:15:38,180 --> 00:15:39,980
 [Laughter]
 
-182
-00:15:39,980 --> 00:15:47,300
-[Susan] It said exactly that. The sky is blue, the grass is green, the pretty girl is lying on the beach,
+**[Susan]:** It said exactly that. The sky is blue, the grass is green, the pretty girl is lying on the beach, it was purely descriptive and that was considered to be somehow lesser because it wasn't interpretive, it wasn't scholarly and it didn't contain research
 
-183
-00:15:47,300 --> 00:15:56,260
-it was purely descriptive and that was considered to be somehow lesser
+**[Sina]:** As opposed to something which I might call rather useless from a vision point of view which is that we can experience a rich plethora of colors the artists youthful age.
 
-184
-00:15:56,260 --> 00:16:01,120
-because it wasn't interpretive, it wasn't scholarly and it didn't contain research
-
-185
-00:16:01,120 --> 00:16:05,340
-[Sina] As opposed to something which I might call rather useless from a vision point of view
-
-186
-00:16:05,340 --> 00:16:11,120
-which is that we can experience a rich plethora of colors the artists youthful age.
-
-187
-00:16:11,120 --> 00:16:15,620
 [Laughter]
 
-188
-00:16:15,620 --> 00:16:20,080
-[Susan] But I understand that person who wrote this would have been raised to disdain art,
+**[Susan]:** But I understand that person who wrote this would have been raised to disdain art, his grief for the blind, just that kind of description, and he has been one of our most enthusiastic participants because he has found in doing this some value for his practice that has ... enforcing him to empathize with the point of view of somebody who doesn't come to works of art with knowledge that has been gained over years and years and years of study and it's been really exciting to watch him sort of raise the idea that there are things to be said in simple description of the sort that might actually be as valuable as the writing that he does that takes five years of research. So we're really excited about how this work is done and that it's something that is going to bring value to our users and our visitors, but it's also really helping our staff to think about what we do and why.
 
-189
-00:16:20,080 --> 00:16:26,600
-his grief for the blind, just that kind of description, and he has been one of our most enthusiastic participants
+**[Sina]:** And not only to help the staff but to help someone who, has great twenty-twenty vision and can see the painting just fine. And I read the description and say you know, I never noticed X, Y and Z I never actually picked up on X, Y, and Z and that is a really enriching experience not only for someone who might be experiencing it for the first time, but there's this, in the gaming world you would call it replay value, right? So there's this quality though of using accessibility and inclusive design to increase the replay value of visiting an art museum and experiencing these works of art. Yeah sure, you can still see it again and you might get something different out of it of course because that's one of the essences of art but having this description almost repositions you to appreciate that visual information even if you can see in a different way. 
 
-190
-00:16:26,600 --> 00:16:34,820
-because he has found in doing this some value for his practice that has ...
+**[Susan]:** This is part of the reason why when we built Coyote, it was important for us to allow for multiple description. Which again is one of those, it's kind of sacrilegious, in this institution. There should be a kind of...
 
-191
-00:16:34,820 --> 00:16:42,860
-enforcing him to empathize with the point of view of somebody who doesn't come to works of art
+**[Sina]:** Thing
 
-192
-00:16:42,860 --> 00:16:48,200
-with knowledge that has been gained over years and years and years of study
+**[Susan]:** Absolutely, the right description. I don't believe in that. But it's really difficult to change a culture that sort of strives for an absolute perfect. and we are ... so this is one of the reasons, by the way, I realize that it sounds really icky, that I was saying we had to have these things, they have to be edited, there can't be subject and predicates because Sina suggested that we could do without verbs ... and articles.
 
-193
-00:16:48,200 --> 00:16:55,280
-and it's been really exciting to watch him sort of raise the idea that there are things to be said
+**[Anna]:** No it was articles.
 
-194
-00:16:55,280 --> 00:17:04,160
-in simple description of the sort that might actually be as valuable as the writing that he does
+**[Susan]:** No, yeah, okay, definitely not verbs. Also without articles. But ...
 
-195
-00:17:04,160 --> 00:17:15,120
-that takes five years of research. So we're really excited about how this work is done and that it's
+**[Sina]:** For short, just to be clear.
 
-196
-00:17:15,120 --> 00:17:20,780
-something that is going to bring value to our users and our visitors, but it's also really helping our staff
-
-197
-00:17:20,780 --> 00:17:26,100
-to think about what we do and why.
-
-198
-00:17:26,100 --> 00:17:31,660
-[Sina] And not only to help the staff but to help someone who, has great twenty-twenty vision
-
-199
-00:17:31,660 --> 00:17:40,960
-and can see the painting just fine. And I read the description and say you know, I never noticed X, Y and Z
-
-200
-00:17:40,960 --> 00:17:47,980
-I never actually picked up on X, Y, and Z and that is a really enriching experience not only for
-
-201
-00:17:47,980 --> 00:17:53,000
-someone who might be experiencing it for the first time, but there's this, in the gaming world
-
-202
-00:17:53,000 --> 00:17:57,600
-you would call it replay value, right? So there's this quality though
-
-203
-00:17:57,600 --> 00:18:05,040
-of using accessibility and inclusive design to increase the replay value of visiting an art museum
-
-204
-00:18:05,040 --> 00:18:10,600
-and experiencing these works of art. Yeah sure, you can still see it again and
-
-205
-00:18:10,600 --> 00:18:14,120
-you might get something different out of it of course because that's one of the essences of art
-
-206
-00:18:14,120 --> 00:18:21,340
-but having this description almost repositions you to appreciate that visual information
-
-207
-00:18:21,340 --> 00:18:24,120
-even if you can see in a different way.
-
-208
-00:18:24,120 --> 00:18:28,700
-[Susan] This is part of the reason why when we built Coyote, it was important for us to allow
-
-209
-00:18:28,700 --> 00:18:35,640
-for multiple description. Which again is one of those, it's kind of sacrilegious, in this institution.
-
-210
-00:18:35,640 --> 00:18:37,880
-There should be a kind of...
-
-211
-00:18:37,880 --> 00:18:38,420
-[Sina] Thing
-
-212
-00:18:38,420 --> 00:18:44,940
-[Susan] Absolutely, the right description. I don't believe in that. But it's really difficult
-
-213
-00:18:44,940 --> 00:18:54,020
-to change a culture that sort of strives for an absolute perfect.
-
-214
-00:18:54,020 --> 00:19:01,680
-and we are ... so this is one of the reasons, by the way, I realize that it sounds really icky,
-
-215
-00:19:01,680 --> 00:19:07,060
-that I was saying we had to have these things, they have to be edited, there can't be subject and predicates
-
-216
-00:19:07,060 --> 00:19:12,220
-because Sina suggested that we could do without verbs ... and articles.
-
-217
-00:19:12,220 --> 00:19:13,800
-[Anna] No it was articles.
-
-218
-00:19:13,800 --> 00:19:20,500
-[Susan] No, yeah, okay, definitely not verbs. Also without articles.
-
-219
-00:19:20,500 --> 00:19:21,340
-But ...
-
-220
-00:19:21,340 --> 00:19:23,040
-[Sina] For short, just to be clear.
-
-221
-00:19:23,040 --> 00:19:25,920
 [Laughter]
 
-222
-00:19:25,920 --> 00:19:32,180
-[Susan] Part of ... yes, for short descriptions. Very well. Part of the reason why we're
+**[Susan]:** Part of ... yes, for short descriptions. Very well. Part of the reason why we're being a little bit cautious about the editorial pieces is that I'm a little afraid that we're just beginning to tip the culture again toward, it's okay for visitor services staff to describe something because they spent all of this time talking to visitors and trying to understand what they want to know, what they don't see this is the type of interaction that curators don't have so they bring that experience to the description  it's pretty exciting to see the ways that the different members of the MCA team are learning from each other about our interaction with the public. That was an unexpected side effect of this whole process.
 
-223
-00:19:32,180 --> 00:19:41,620
-being a little bit cautious about the editorial pieces is that I'm a little afraid that we're just beginning to
+**[Sina]:** I think we want to phrase this a little bit more as a discussion, without raising your hand because that's useless for me, but ... any questions?
 
-224
-00:19:41,620 --> 00:19:48,060
-tip the culture again toward, it's okay for visitor services staff to describe something because they spent
+**[Susan]:** Could you just tap your hand
 
-225
-00:19:48,060 --> 00:19:54,360
-all of this time talking to visitors and trying to understand what they want to know, what they don't see
-
-226
-00:19:54,360 --> 00:19:59,260
-this is the type of interaction that curators don't have so they bring that experience to the description
-
-227
-00:19:59,260 --> 00:20:09,060
-it's pretty exciting to see the ways that the different members of the MCA team are learning from each other
-
-228
-00:20:09,060 --> 00:20:17,580
-about our interaction with the public. That was an unexpected side effect of this whole process.
-
-229
-00:20:17,580 --> 00:20:22,040
-[Sina] I think we want to phrase this a little bit more as a discussion, without raising your hand
-
-230
-00:20:22,040 --> 00:20:24,600
-because that's useless for me, but ... any questions?
-
-231
-00:20:24,600 --> 00:20:26,440
-[Susan] Could you just tap your hand
-
-232
-00:20:26,440 --> 00:20:29,540
 [Laughter]
 
-233
-00:20:29,540 --> 00:20:34,280
-[Sina] Or just speak up ... so many burning questions. But any questions
+**[Sina]:** Or just speak up ... so many burning questions. But any questions or comments on stuff that we discussed so far? I'm totally commandeering ... you guys ok with that? 
 
-234
-00:20:34,280 --> 00:20:40,100
-or comments on stuff that we discussed so far?
+**[Susan]:** Yeah
 
-235
-00:20:40,100 --> 00:20:46,140
-I'm totally commandeering ... you guys ok with that?
+**[Anna]:** Of course
 
-236
-00:20:46,140 --> 00:20:47,580
-[Susan] Yeah
+**[Sina]:** I'm being arbitrary, you spoke up first, in the front, to my right
 
-237
-00:20:47,580 --> 00:20:48,920
-[Anna] Of course
+**[Renee]** Have any of your artists objected to defining, describing their work? My daughter's a choreographer and she will not say what it means
 
-238
-00:20:48,920 --> 00:20:53,920
-[Sina] I'm being arbitrary, you spoke up first, in the front, to my right
+**[Susan]:** We recently published a little factoid about the number of works in our collection that have the title of "untitled" and its a very significant number
 
-239
-00:20:53,920 --> 00:21:02,400
-[Renee] Have any of your artists objected to defining, describing their work?
+**[Anna]:** Twenty one percent
 
-240
-00:21:02,400 --> 00:21:08,060
-My daughter's a choreographer and she will not say what it means
+**[Sina]:** Wow!
 
-241
-00:21:08,060 --> 00:21:14,860
-[Susan] We recently published a little factoid about the number of works in our collection
+**[Anna Laughing]:** Contemporary art
 
-242
-00:21:14,860 --> 00:21:19,060
-that have the title of "untitled" and its a very significant number
+**[Susan]:** And we published alongside sort of a note that artists will frequently title something untitled so as to allow for interpretation on the part of the viewer, so yeah that's one reason why artists may object to...
 
-243
-00:21:19,060 --> 00:21:20,440
-[Anna] Twenty one percent
+**[Renee]** that was my point
 
-244
-00:21:20,440 --> 00:21:21,480
-[Sina] Wow!
+**[Susan]:** yes, but the other reason is we might frankly be wrong. We haven't heard it yet but then we haven't been engaging with them. I suspect that'll absolutely happen, but I also think there will be plenty that don't mind. But this is what you have to do.
 
-245
-00:21:21,480 --> 00:21:22,600
-[Anna Laughing] Contemporary art
+**[Sina]:** So Anna has a really good story. I mean if you want to tell it.
 
-246
-00:21:22,600 --> 00:21:31,720
-[Susan] And we published alongside sort of a note that artists will frequently title something untitled
+**[Anna]:** About the painter?
 
-247
-00:21:31,720 --> 00:21:39,260
-so as to allow for interpretation on the part of the viewer, so yeah that's one reason why artists may object to...
+**[Sina]:** Yeah
 
-248
-00:21:39,260 --> 00:21:40,940
-[Renee] that was my point
+**[Anna]:** Yeah, so Sina got us all thinking about this all the time. The process of describing
 
-249
-00:21:40,940 --> 00:21:48,040
-[Susan] yes, but the other reason is we might frankly be wrong. We haven't heard it yet
-
-250
-00:21:48,040 --> 00:21:55,740
-but then we haven't been engaging with them. I suspect that'll absolutely happen, but I also think
-
-251
-00:21:55,740 --> 00:21:59,560
-there will be plenty that don't mind. But this is what you have to do.
-
-252
-00:21:59,560 --> 00:22:05,060
-[Sina] So Anna has a really good story. I mean if you want to tell it.
-
-253
-00:22:05,060 --> 00:22:06,820
-[Anna] About the painter?
-
-254
-00:22:06,820 --> 00:22:08,540
-[Sina] Yeah
-
-255
-00:22:08,540 --> 00:22:17,120
-[Anna] Yeah, so Sina got us all thinking about this all the time. The process of describing
-
-256
-00:22:17,120 --> 00:22:19,560
-[Sina] They actually think about accessibility
+**[Sina]:** They actually think about accessibility
 more than I do
 
 257
@@ -692,15 +177,15 @@ more than I do
 
 258
 00:22:20,340 --> 00:22:21,840
-[Anna] Possibly true.
+**[Anna]:** Possibly true.
 
 259
 00:22:21,840 --> 00:22:24,340
-[Susan] Because we're learning
+**[Susan]:** Because we're learning
 
 260
 00:22:24,340 --> 00:22:31,760
-[Anna] We're learning, we're veraciously consuming information. So one of the things I do here
+**[Anna]:** We're learning, we're veraciously consuming information. So one of the things I do here
 
 261
 00:22:31,760 --> 00:22:36,780
@@ -764,7 +249,7 @@ it was fantastic. And so these kinds of experiences are constantly opening up he
 
 276
 00:24:05,720 --> 00:24:15,540
-[Susan] We have all of these fantasies. We have this idea that we might combine these descriptions with
+**[Susan]:** We have all of these fantasies. We have this idea that we might combine these descriptions with
 
 277
 00:24:15,540 --> 00:24:21,040
@@ -792,15 +277,15 @@ this is the dullest thing we could possibly do with your time.
 
 283
 00:24:57,020 --> 00:24:57,900
-[Sina] We changed that.
+**[Sina]:** We changed that.
 
 284
 00:24:57,900 --> 00:24:58,660
-[Susan] We changed that.
+**[Susan]:** We changed that.
 
 285
 00:24:58,660 --> 00:25:00,680
-[SIna] We had some questions in the middle, I think.
+**[Sina]:** We had some questions in the middle, I think.
 
 286
 00:25:00,680 --> 00:25:05,220
@@ -820,7 +305,7 @@ the place that they work. Would you say that would be the case?
 
 290
 00:25:23,180 --> 00:25:29,100
-[Susan] Yes, but I don't think they necessarily ...  you're going to assume that they are going to be proud
+**[Susan]:** Yes, but I don't think they necessarily ...  you're going to assume that they are going to be proud
 
 291
 00:25:29,100 --> 00:25:34,120
@@ -848,7 +333,7 @@ in this building, is something that a lot of them respond to, totally independen
 
 297
 00:26:14,740 --> 00:26:21,440
-[Sina] And, just to set the stage here, the first time, if it wasn't all, oh my goodness,
+**[Sina]:** And, just to set the stage here, the first time, if it wasn't all, oh my goodness,
 
 298
 00:26:21,440 --> 00:26:25,900
@@ -924,7 +409,7 @@ to take it seriously, and then everything else stems from there in my mind.
 
 316
 00:28:11,620 --> 00:28:16,880
-[Anna] And, Sina just demonstrated another factor, which is, having the trainings with Sina
+**[Anna]:** And, Sina just demonstrated another factor, which is, having the trainings with Sina
 
 317
 00:28:16,880 --> 00:28:22,960
@@ -944,11 +429,11 @@ thank you." And I think that is such a huge motivator. You could feel the other 
 
 321
 00:28:44,740 --> 00:28:46,180
-[Sina] Right, right.
+**[Sina]:** Right, right.
 
 322
 00:28:46,180 --> 00:28:58,480
-[Susan] We were talking earlier, just to pile onto the training note, and this is not specific to Coyote,
+**[Susan]:** We were talking earlier, just to pile onto the training note, and this is not specific to Coyote,
 
 323
 00:28:58,480 --> 00:29:02,780
@@ -980,7 +465,7 @@ All of that is not perfect or done yet, but making available the knowledge so it
 
 330
 00:29:54,780 --> 00:29:58,200
-[Sina] And the other advantage of that, there's an emergent effect that happens there
+**[Sina]:** And the other advantage of that, there's an emergent effect that happens there
 
 331
 00:29:58,200 --> 00:30:02,200
@@ -1052,11 +537,11 @@ of this effort? I'm so curious about ...
 
 348
 00:31:17,800 --> 00:31:19,480
-[Susan] So it's actually ...
+**[Susan]:** So it's actually ...
 
 349
 00:31:19,480 --> 00:31:21,980
-[Sina] I call it, you always get to tell this one.
+**[Sina]:** I call it, you always get to tell this one.
 
 350
 00:31:21,980 --> 00:31:23,980
@@ -1064,15 +549,15 @@ of this effort? I'm so curious about ...
 
 351
 00:31:23,980 --> 00:31:27,700
-[Susan] April. I mean the origin story is not backed up that much.
+**[Susan]:** April. I mean the origin story is not backed up that much.
 
 352
 00:31:27,700 --> 00:31:30,980
-[Anna] You want to mention when we first met Sina?
+**[Anna]:** You want to mention when we first met Sina?
 
 353
 00:31:30,980 --> 00:31:36,320
-[Sina] Well, so, I remember it very clearly. I actually where I was, how I was holding my thumb.
+**[Sina]:** Well, so, I remember it very clearly. I actually where I was, how I was holding my thumb.
 
 354
 00:31:36,320 --> 00:31:37,580
@@ -1084,7 +569,7 @@ Which is weird, but ...
 
 356
 00:31:39,200 --> 00:31:43,380
-[Sina] I also actually remember because I was heavily excite and threw it across the room. Um ...
+**[Sina]:** I also actually remember because I was heavily excite and threw it across the room. Um ...
 
 357
 00:31:43,380 --> 00:31:44,400
@@ -1092,7 +577,7 @@ Which is weird, but ...
 
 358
 00:31:44,400 --> 00:31:51,320
-[Sina] Yeah, it was great. But basically we were talking about images, and I remember actually being
+**[Sina]:** Yeah, it was great. But basically we were talking about images, and I remember actually being
 
 359
 00:31:51,320 --> 00:31:51,880
@@ -1100,7 +585,7 @@ Which is weird, but ...
 
 360
 00:31:51,880 --> 00:31:56,420
-[Sina] on Susan's part, which was I was a little reluctant. I said, ok guys, here's the deal,
+**[Sina]:** on Susan's part, which was I was a little reluctant. I said, ok guys, here's the deal,
 
 361
 00:31:56,420 --> 00:31:58,020
@@ -1108,11 +593,11 @@ I'm going to lay this out for you.
 
 362
 00:31:58,020 --> 00:31:59,160
-[Susan] Oh yes.
+**[Susan]:** Oh yes.
 
 363
 00:31:59,160 --> 00:32:04,560
-[Sina] What you are saying, because Susan was very much doing her usual, which is like,
+**[Sina]:** What you are saying, because Susan was very much doing her usual, which is like,
 
 364
 00:32:04,560 --> 00:32:11,640
@@ -1124,7 +609,7 @@ forget bare minimums, and even average, we're going to be like, what's after tri
 
 366
 00:32:15,440 --> 00:32:17,720
-[Anna] Guys, guys, guys, think about scope.
+**[Anna]:** Guys, guys, guys, think about scope.
 
 367
 00:32:17,720 --> 00:32:18,960
@@ -1132,7 +617,7 @@ forget bare minimums, and even average, we're going to be like, what's after tri
 
 368
 00:32:18,960 --> 00:32:19,940
-[Anna] Deadlines
+**[Anna]:** Deadlines
 
 369
 00:32:19,940 --> 00:32:20,740
@@ -1140,7 +625,7 @@ forget bare minimums, and even average, we're going to be like, what's after tri
 
 370
 00:32:20,740 --> 00:32:25,020
-[Sina] So, describe every image in there. They're like "yeah, totally."
+**[Sina]:** So, describe every image in there. They're like "yeah, totally."
 
 371
 00:32:25,020 --> 00:32:29,040
@@ -1188,7 +673,7 @@ so that the website could draw from it.
 
 382
 00:33:19,460 --> 00:33:24,760
-[Susan] And we egg each other on, which is, sometimes a problem. So immediately as we began to think about
+**[Susan]:** And we egg each other on, which is, sometimes a problem. So immediately as we began to think about
 
 383
 00:33:24,760 --> 00:33:31,460
@@ -1232,7 +717,7 @@ by someone, hopefully us.
 
 393
 00:34:28,600 --> 00:34:34,020
-[Anna] And actually that is another factor of the workflows helps the commitment
+**[Anna]:** And actually that is another factor of the workflows helps the commitment
 
 394
 00:34:34,020 --> 00:34:39,700
@@ -1256,15 +741,15 @@ still this community basis to the way this data is collected.
 
 399
 00:35:02,360 --> 00:35:08,220
-[Susan] I don't think we have actually said that it is our intention that the software to be available to anybody.
+**[Susan]:** I don't think we have actually said that it is our intention that the software to be available to anybody.
 
 400
 00:35:08,220 --> 00:35:08,740
-[Sina] Yes.
+**[Sina]:** Yes.
 
 401
 00:35:08,740 --> 00:35:17,600
-[Susan] and that we're not really ready for it to be fully deposited, but that we're happy
+**[Susan]:** and that we're not really ready for it to be fully deposited, but that we're happy
 
 402
 00:35:17,600 --> 00:35:23,800
@@ -1284,15 +769,15 @@ and it pushes descriptions back out, I mean basics.
 
 406
 00:35:42,240 --> 00:35:43,220
-[Anna] Once approved.
+**[Anna]:** Once approved.
 
 407
 00:35:43,220 --> 00:35:45,140
-[Susan] Once approved
+**[Susan]:** Once approved
 
 408
 00:35:45,140 --> 00:35:46,700
-[Anna] Which is why we'll let you in.
+**[Anna]:** Which is why we'll let you in.
 
 409
 00:35:46,700 --> 00:35:48,780
@@ -1300,7 +785,7 @@ and it pushes descriptions back out, I mean basics.
 
 410
 00:35:48,780 --> 00:35:52,200
-[Susan] Yes, you can't put anything you want in there. But I'm never going to get around to it.
+**[Susan]:** Yes, you can't put anything you want in there. But I'm never going to get around to it.
 
 411
 00:35:52,200 --> 00:35:54,760
@@ -1312,7 +797,7 @@ and it pushes descriptions back out, I mean basics.
 
 413
 00:35:57,160 --> 00:36:01,900
-[Susan] Absolutely, please do. Absolutely. As a matter of fact, if you think you might start describing
+**[Susan]:** Absolutely, please do. Absolutely. As a matter of fact, if you think you might start describing
 
 414
 00:36:01,900 --> 00:36:03,320
@@ -1324,7 +809,7 @@ we'll give you your own login.
 
 416
 00:36:05,300 --> 00:36:13,500
-[Sina] Absolutely. And if you're interested in doing that, and again, terms and conditions and so forth,
+**[Sina]:** Absolutely. And if you're interested in doing that, and again, terms and conditions and so forth,
 
 417
 00:36:13,500 --> 00:36:22,520
@@ -1340,7 +825,7 @@ so I'm particularly interested. And I really want to see the painting...
 
 420
 00:36:32,940 --> 00:36:34,620
-[Susan] I guess we should
+**[Susan]:** I guess we should
 
 421
 00:36:34,620 --> 00:36:39,780
@@ -1352,11 +837,11 @@ so I'm particularly interested. And I really want to see the painting...
 
 423
 00:36:50,340 --> 00:36:54,140
-[Anna] It's really great with the lights.
+**[Anna]:** It's really great with the lights.
 
 424
 00:36:54,140 --> 00:37:01,180
-[Susan] Terrible, terrible. It's actually ... if you come back anytime soon, it's in our lobby right now.
+**[Susan]:** Terrible, terrible. It's actually ... if you come back anytime soon, it's in our lobby right now.
 
 425
 00:37:01,180 --> 00:37:10,760
@@ -1372,15 +857,15 @@ just a plug there, well, because...
 
 428
 00:37:15,040 --> 00:37:22,920
-[Susan] And the show is organized by us, but it's going on to the Met, and to the Los Angeles Museum of Art
+**[Susan]:** And the show is organized by us, but it's going on to the Met, and to the Los Angeles Museum of Art
 
 429
 00:37:27,560 --> 00:37:31,400
-[Anna] I have friends from all over coming to see it here.
+**[Anna]:** I have friends from all over coming to see it here.
 
 430
 00:37:31,400 --> 00:37:40,520
-[Susan] And to see it here because Terry has been very involved in ... This is interesting because
+**[Susan]:** And to see it here because Terry has been very involved in ... This is interesting because
 
 431
 00:37:40,520 --> 00:37:50,260
@@ -1416,15 +901,15 @@ we're not trying to do everything with it.
 
 439
 00:38:37,380 --> 00:38:41,880
-[Anna] It's funny, reading the description ...
+**[Anna]:** It's funny, reading the description ...
 
 440
 00:38:41,880 --> 00:38:43,840
-[Susan] Is that the one I would have written?
+**[Susan]:** Is that the one I would have written?
 
 441
 00:38:43,840 --> 00:38:48,840
-[Anna] It's not the one I would have written, but it's also interesting how, reading it again and again,
+**[Anna]:** It's not the one I would have written, but it's also interesting how, reading it again and again,
 
 442
 00:38:48,840 --> 00:38:55,300
@@ -1464,7 +949,7 @@ but there was no over political statement or anything like that, that means some
 
 451
 00:39:39,300 --> 00:39:48,160
-[Susan] There's much more to these than people expect from visual description as we've been taught
+**[Susan]:** There's much more to these than people expect from visual description as we've been taught
 
 452
 00:39:48,160 --> 00:39:55,480
@@ -1500,7 +985,7 @@ might be other appreciable people out in the accessibility community who would s
 
 460
 00:40:40,060 --> 00:40:47,080
-[Sina] For sure. Especially with art, I think the immediate ... I talked with several folks about this project without
+**[Sina]:** For sure. Especially with art, I think the immediate ... I talked with several folks about this project without
 
 461
 00:40:47,080 --> 00:40:51,520
@@ -1528,7 +1013,7 @@ You've been in accessibility for twenty years, Come on!
 
 467
 00:41:17,080 --> 00:41:26,800
-[Sina] And that's the reaction that is not happening here. Past the fast forward and past the why bother
+**[Sina]:** And that's the reaction that is not happening here. Past the fast forward and past the why bother
 
 468
 00:41:26,800 --> 00:41:36,120
@@ -1544,11 +1029,11 @@ it's very straightforward
 
 471
 00:41:42,160 --> 00:41:45,820
-[Susan] You can actually write scripts to describe many representable paintings.
+**[Susan]:** You can actually write scripts to describe many representable paintings.
 
 472
 00:41:45,820 --> 00:41:51,440
-[Sina] Absolutely, you can describe the subject, a little of the form and color, and there's rules for this.
+**[Sina]:** Absolutely, you can describe the subject, a little of the form and color, and there's rules for this.
 
 473
 00:41:51,440 --> 00:41:59,440
@@ -1592,7 +1077,7 @@ and, you know, I can say that, that doesn't mean they have to be going forward.
 
 483
 00:42:47,160 --> 00:42:56,940
-[Susan] I spoke at an event at the Goodman Theater this fall that was hosted by ADA 25
+**[Susan]:** I spoke at an event at the Goodman Theater this fall that was hosted by ADA 25
 
 484
 00:42:56,940 --> 00:43:04,700
@@ -1608,11 +1093,11 @@ you could go inside of it.
 
 487
 00:43:15,000 --> 00:43:16,080
-[Sina] That's my favorite.
+**[Sina]:** That's my favorite.
 
 488
 00:43:16,080 --> 00:43:23,560
-[Susan] It's a great great description and she, at the end of the summit, she was on the stage
+**[Susan]:** It's a great great description and she, at the end of the summit, she was on the stage
 
 489
 00:43:23,560 --> 00:43:27,040
@@ -1640,7 +1125,7 @@ she came and was escorted through the hot air balloon by one of our guest servic
 
 495
 00:44:06,620 --> 00:44:08,740
-[Sina] Any other questions, comments?
+**[Sina]:** Any other questions, comments?
 
 496
 00:44:09,660 --> 00:44:14,260
@@ -1648,11 +1133,11 @@ she came and was escorted through the hot air balloon by one of our guest servic
 
 497
 00:44:14,260 --> 00:44:14,760
-[Susan] No.
+**[Susan]:** No.
 
 498
 00:44:14,760 --> 00:44:21,780
-[Sina] Just, just for right now. The plan is totally to, let's agree on license, let's throw it on to GitHub,
+**[Sina]:** Just, just for right now. The plan is totally to, let's agree on license, let's throw it on to GitHub,
 
 499
 00:44:21,780 --> 00:44:23,840
@@ -1664,7 +1149,7 @@ the whole thing, yeah.
 
 501
 00:44:28,180 --> 00:44:35,240
-[Susan] For Coyote itself, or for the descriptions? Yeah, we have lots of ideas.
+**[Susan]:** For Coyote itself, or for the descriptions? Yeah, we have lots of ideas.
 
 502
 00:44:35,240 --> 00:44:42,340
@@ -1676,11 +1161,11 @@ within the gallery space. So that basically somebody who wants to ...
 
 504
 00:44:47,900 --> 00:44:49,640
-[Sina] who wants to come here physically
+**[Sina]:** who wants to come here physically
 
 505
 00:44:49,640 --> 00:45:00,580
-[Susan] Like that's so easy to do ... they will be very useful in gallery...
+**[Susan]:** Like that's so easy to do ... they will be very useful in gallery...
 
 506
 00:45:00,580 --> 00:45:02,780
@@ -1688,15 +1173,15 @@ within the gallery space. So that basically somebody who wants to ...
 
 507
 00:45:02,780 --> 00:45:05,000
-[Susan] Well, everyone walks around with that
+**[Susan]:** Well, everyone walks around with that
 
 508
 00:45:05,000 --> 00:45:09,500
-[Sina] With their phone, right?
+**[Sina]:** With their phone, right?
 
 509
 00:45:09,500 --> 00:45:18,600
-[Susan] What I'd love to see is a whole sort of culture of those descriptions being available in Chicago
+**[Susan]:** What I'd love to see is a whole sort of culture of those descriptions being available in Chicago
 
 510
 00:45:18,600 --> 00:45:26,220
@@ -1720,7 +1205,7 @@ if you are a researcher, you know, whatever.
 
 515
 00:45:55,620 --> 00:46:02,580
-[Sina] One of our colleagues in Baltimore invited some art history students, the traditional training.
+**[Sina]:** One of our colleagues in Baltimore invited some art history students, the traditional training.
 
 516
 00:46:02,580 --> 00:46:06,300
@@ -1860,7 +1345,7 @@ the accessibility of it? How it rates with the website? And how does that divisi
 
 550
 00:49:09,680 --> 00:49:15,340
-[Sina] So, is your background development? Like technology?
+**[Sina]:** So, is your background development? Like technology?
 
 551
 00:49:15,340 --> 00:49:21,380
@@ -1868,7 +1353,7 @@ the accessibility of it? How it rates with the website? And how does that divisi
 
 552
 00:49:21,380 --> 00:49:26,420
-[Sina] So I'll give you an overview, then I'm happy to talk to you offline about it. But basically,
+**[Sina]:** So I'll give you an overview, then I'm happy to talk to you offline about it. But basically,
 
 553
 00:49:26,420 --> 00:49:31,460
@@ -1952,15 +1437,15 @@ I use the system myself and I'm obviously a screen reader user and I can use it 
 
 573
 00:51:10,760 --> 00:51:13,680
-[Sina] But for other disabilities as well, we don't want to make it just for blind people.
+**[Sina]:** But for other disabilities as well, we don't want to make it just for blind people.
 
 574
 00:51:13,680 --> 00:51:16,920
-[Susan] Although we want Sina to describe images...
+**[Susan]:** Although we want Sina to describe images...
 
 575
 00:51:16,920 --> 00:51:18,960
-[Sina] Yeah, that's a different problem.
+**[Sina]:** Yeah, that's a different problem.
 
 576
 00:51:18,960 --> 00:51:22,960
@@ -1968,7 +1453,7 @@ I use the system myself and I'm obviously a screen reader user and I can use it 
 
 577
 00:51:23,440 --> 00:51:25,360
-[Sina] Any other questions?
+**[Sina]:** Any other questions?
 
 578
 00:51:26,760 --> 00:51:33,180
@@ -1976,7 +1461,7 @@ I use the system myself and I'm obviously a screen reader user and I can use it 
 
 579
 00:51:33,180 --> 00:51:38,820
-[Susan] Of works ... so tactile ...
+**[Susan]:** Of works ... so tactile ...
 
 580
 00:51:38,820 --> 00:51:41,700
@@ -1984,7 +1469,7 @@ I use the system myself and I'm obviously a screen reader user and I can use it 
 
 581
 00:51:41,700 --> 00:51:57,320
-[Susan] Yes, no, of works in the collection. We don't have any. It's not something ... we would really love to be ...
+**[Susan]:** Yes, no, of works in the collection. We don't have any. It's not something ... we would really love to be ...
 
 582
 00:51:57,320 --> 00:52:11,060
@@ -2012,19 +1497,19 @@ so they take a really conservative approach to touching anything ...
 
 588
 00:52:46,620 --> 00:52:50,140
-[Anna] Except I realized the plaza project, which ...
+**[Anna]:** Except I realized the plaza project, which ...
 
 589
 00:52:50,140 --> 00:52:51,200
-[Susan] Oh yes.
+**[Susan]:** Oh yes.
 
 590
 00:52:51,200 --> 00:52:53,480
-[Anna] It's like the one thing that can be touched.
+**[Anna]:** It's like the one thing that can be touched.
 
 591
 00:52:53,480 --> 00:52:57,000
-[Susan] That and actually I think one of the interesting things that are happening in Chicago is
+**[Susan]:** That and actually I think one of the interesting things that are happening in Chicago is
 
 592
 00:52:57,000 --> 00:53:02,080
@@ -2036,7 +1521,7 @@ have a touch tour, based on the architecture in this building, which is an impor
 
 594
 00:53:07,360 --> 00:53:12,040
-[Sina] I also think that there's other aspects here. So when we talk about replicas, especially tactile
+**[Sina]:** I also think that there's other aspects here. So when we talk about replicas, especially tactile
 
 595
 00:53:12,040 --> 00:53:19,760
@@ -2136,7 +1621,7 @@ But, it's hard. It's a hard problem.
 
 619
 00:55:32,360 --> 00:55:33,960
-[Susan] Ah, we didn't.
+**[Susan]:** Ah, we didn't.
 
 620
 00:55:33,960 --> 00:55:39,960
@@ -2144,7 +1629,7 @@ But, it's hard. It's a hard problem.
 
 621
 00:55:41,140 --> 00:55:49,820
-[Susan] So my philosophy is that, well one of my philosophies is that you should ...
+**[Susan]:** So my philosophy is that, well one of my philosophies is that you should ...
 
 622
 00:55:49,820 --> 00:55:56,580
@@ -2176,11 +1661,11 @@ and so we just frankly, um, "did you just, Dennis, yeah", nobody noticed that th
 
 629
 00:56:32,860 --> 00:56:36,960
-[Anna] It was a line in the budget for the website.
+**[Anna]:** It was a line in the budget for the website.
 
 630
 00:56:36,960 --> 00:56:46,420
-[Susan] And all, yeah, technology, right? But in terms of this institution's commitment to accessibility
+**[Susan]:** And all, yeah, technology, right? But in terms of this institution's commitment to accessibility
 
 631
 00:56:46,420 --> 00:56:52,180
@@ -2196,7 +1681,7 @@ And I just think that works for me virtually every time, except for my husband, 
 
 634
 00:56:59,880 --> 00:57:03,420
-[Sina] You're going to egg me for saying this, but you just laid out the Donald Trump model of accessibility.
+**[Sina]:** You're going to egg me for saying this, but you just laid out the Donald Trump model of accessibility.
 
 635
 00:57:03,420 --> 00:57:07,320
@@ -2204,11 +1689,11 @@ Oh No! [Laughter]
 
 636
 00:57:07,320 --> 00:57:09,860
-[Susan] Wait, that's not true ... well ... yeah.
+**[Susan]:** Wait, that's not true ... well ... yeah.
 
 637
 00:57:09,860 --> 00:57:11,700
-[Anna] No, he's just copying her.
+**[Anna]:** No, he's just copying her.
 
 638
 00:57:11,700 --> 00:57:14,320
@@ -2216,7 +1701,7 @@ Oh No! [Laughter]
 
 639
 00:57:14,320 --> 00:57:18,900
-[Susan] I think it's really really tough because, we were saying earlier, you know, you can't say the word
+**[Susan]:** I think it's really really tough because, we were saying earlier, you know, you can't say the word
 
 640
 00:57:18,900 --> 00:57:25,900
@@ -2224,7 +1709,7 @@ people have all of these biases against, you just have to start trying stuff.
 
 641
 00:57:25,900 --> 00:57:30,980
-[Sina] You know, Tim Cook has a quote, the CEO of Apple, right. He has this thing where,
+**[Sina]:** You know, Tim Cook has a quote, the CEO of Apple, right. He has this thing where,
 
 642
 00:57:30,980 --> 00:57:40,380
@@ -2304,7 +1789,7 @@ but all those over ones that I listed, that model seems to work.
 
 661
 00:59:28,080 --> 00:59:36,140
-[Susan] And actually, I have no doubt that the position that we've taken on accessibility that we will ...
+**[Susan]:** And actually, I have no doubt that the position that we've taken on accessibility that we will ...
 
 662
 00:59:36,140 --> 00:59:42,760
@@ -2328,7 +1813,7 @@ all of that good stuff that non-profits like.
 
 667
 01:00:13,140 --> 01:00:18,180
-[Anna] It's possible that its becoming quite hip. It's so cool right now.
+**[Anna]:** It's possible that its becoming quite hip. It's so cool right now.
 
 668
 01:00:18,180 --> 01:00:23,980
@@ -2368,7 +1853,7 @@ to move things forward.
 
 677
 01:01:07,940 --> 01:01:11,640
-[Susan] Hip for artists but also hip for funders. I was saying in a meeting earlier,
+**[Susan]:** Hip for artists but also hip for funders. I was saying in a meeting earlier,
 
 678
 01:01:11,640 --> 01:01:22,460
@@ -2404,7 +1889,7 @@ with that network of people at all, just to see if they could contribute to doin
 
 686
 01:02:10,680 --> 01:02:18,860
-[Susan] We absolutely have. We want to have a tool that's finished before we ...
+**[Susan]:** We absolutely have. We want to have a tool that's finished before we ...
 
 687
 01:02:18,860 --> 01:02:24,840
@@ -2432,7 +1917,7 @@ And today, somebody who is a representative of the deaf community came up to me 
 
 693
 01:02:45,480 --> 01:02:54,360
-[Susan] But, you know, we have been in conversation with the poetry foundation, about that community
+**[Susan]:** But, you know, we have been in conversation with the poetry foundation, about that community
 
 694
 01:02:54,360 --> 01:03:02,500
@@ -2456,7 +1941,7 @@ we would want to, but really with the best of intentions.
 
 699
 01:03:33,160 --> 01:03:38,680
-[Anna] It would be so easy to just share with everyone and then have it sort of just flop out.
+**[Anna]:** It would be so easy to just share with everyone and then have it sort of just flop out.
 
 700
 01:03:38,680 --> 01:03:44,600
@@ -2468,7 +1953,7 @@ is it ready for this.
 
 702
 01:03:47,500 --> 01:03:52,840
-[Susan] Actually, to be fair, the kinds of next partners that we're looking for are actually folks like you
+**[Susan]:** Actually, to be fair, the kinds of next partners that we're looking for are actually folks like you
 
 703
 01:03:52,840 --> 01:03:59,500
@@ -2504,7 +1989,7 @@ who you think would ... be excited to partake in the site? They may not even kno
 
 711
 01:04:46,500 --> 01:04:52,940
-[Sina] Part of that is intentional. It's sort of the slow release model, working everything out.
+**[Sina]:** Part of that is intentional. It's sort of the slow release model, working everything out.
 
 712
 01:04:52,940 --> 01:04:56,660
@@ -2584,7 +2069,7 @@ in a lot of different ways, it's not just that thing you do for one disability g
 
 731
 01:07:05,620 --> 01:07:10,560
-[Susan] I actually want to answer it in a different way, because I complete agree with what Sina says.
+**[Susan]:** I actually want to answer it in a different way, because I complete agree with what Sina says.
 
 732
 01:07:10,560 --> 01:07:17,600
@@ -2624,7 +2109,7 @@ I think it will begin to get out there in the world. You can be an artist. We be
 
 741
 01:08:31,300 --> 01:08:39,880
-[Anna] It's absolute and, the work Sina and I were doing on the letter that we need to write together this week
+**[Anna]:** It's absolute and, the work Sina and I were doing on the letter that we need to write together this week
 
 742
 01:08:39,880 --> 01:08:45,040
@@ -2660,7 +2145,7 @@ and there's a whole other conversation happening over there.
 
 750
 01:09:24,460 --> 01:09:28,700
-[Sina] And actually that reminded me. This kind of work does actually have one other strategic advantage.
+**[Sina]:** And actually that reminded me. This kind of work does actually have one other strategic advantage.
 
 751
 01:09:28,700 --> 01:09:33,620
@@ -2692,7 +2177,7 @@ and be like, accessibility, yeah, you guys totally are thinking this meeting is 
 
 758
 01:10:07,680 --> 01:10:11,640
-[Sina] Let's just get it out there, and by the end of it, just getting them super passionate about it.
+**[Sina]:** Let's just get it out there, and by the end of it, just getting them super passionate about it.
 
 759
 01:10:11,640 --> 01:10:19,760
@@ -2716,7 +2201,7 @@ highlighting those kind of obstacles and doing something about it, is really imp
 
 764
 01:10:43,500 --> 01:10:50,960
-[Anna] And it spins out into everything else we do. Like there's this moment where we're having issues with
+**[Anna]:** And it spins out into everything else we do. Like there's this moment where we're having issues with
 
 765
 01:10:50,960 --> 01:10:58,700
@@ -2733,15 +2218,15 @@ Oh my god, our PDFs, they're not accessible.
 
 768
 01:11:06,220 --> 01:11:09,940
-[Anna] So I called Sina and said "Sina, Help!"
+**[Anna]:** So I called Sina and said "Sina, Help!"
 
 769
 01:11:09,940 --> 01:11:11,540
-[Susan] Tomorrow's PDF training.
+**[Susan]:** Tomorrow's PDF training.
 
 770
 01:11:11,540 --> 01:11:13,540
-[Sina] Yeah, tomorrow is PDF accessibility training.
+**[Sina]:** Yeah, tomorrow is PDF accessibility training.
 
 771
 01:11:13,540 --> 01:11:15,980
@@ -2753,7 +2238,7 @@ Oh my god, our PDFs, they're not accessible.
 
 773
 01:11:19,380 --> 01:11:21,560
-[Susan] You should come to training tomorrow.
+**[Susan]:** You should come to training tomorrow.
 
 774
 01:11:21,560 --> 01:11:23,760
@@ -2761,7 +2246,7 @@ Oh my god, our PDFs, they're not accessible.
 
 775
 01:11:23,760 --> 01:11:28,640
-[Sina] The answer is, if you are using InDesign, we've got it about 95% done already
+**[Sina]:** The answer is, if you are using InDesign, we've got it about 95% done already
 
 776
 01:11:28,640 --> 01:11:34,200
@@ -2801,19 +2286,19 @@ because the accessibility lives with the document.
 
 785
 01:12:10,320 --> 01:12:15,260
-[Susan] I can see the client look at that calendar, uhhhh.
+**[Susan]:** I can see the client look at that calendar, uhhhh.
 
 786
 01:12:15,260 --> 01:12:18,540
-[Anna] I reminded them, they were like yeah yeah yeah...
+**[Anna]:** I reminded them, they were like yeah yeah yeah...
 
 787
 01:12:18,540 --> 01:12:23,200
-[Susan] So I was like, Sina, if you can make them come to that meeting ...
+**[Susan]:** So I was like, Sina, if you can make them come to that meeting ...
 
 788
 01:12:23,200 --> 01:12:28,100
-[Anna] Actually, a good consultant, just to give a pitch for Sina, I mean the first conversation I had
+**[Anna]:** Actually, a good consultant, just to give a pitch for Sina, I mean the first conversation I had
 
 789
 01:12:28,100 --> 01:12:35,120
@@ -2833,7 +2318,7 @@ when we sent them this huge task list after our WCAG evaluation, they were like 
 
 793
 01:12:56,120 --> 01:12:59,480
-[Sina] Yeah, that was really weird, actually.
+**[Sina]:** Yeah, that was really weird, actually.
 
 794
 01:12:59,480 --> 01:13:00,800
@@ -2849,11 +2334,11 @@ it is a problem to solve and they love that.
 
 797
 01:13:10,740 --> 01:13:15,040
-[Sina] And you shouldn't go in, I think what happens sometimes in accessibility is ...
+**[Sina]:** And you shouldn't go in, I think what happens sometimes in accessibility is ...
 
 798
 01:13:15,040 --> 01:13:17,460
-[Susan] Those are developers, we're talking tomorrow to our designers.
+**[Susan]:** Those are developers, we're talking tomorrow to our designers.
 
 799
 01:13:17,460 --> 01:13:19,860
@@ -2861,7 +2346,7 @@ it is a problem to solve and they love that.
 
 800
 01:13:19,860 --> 01:13:26,020
-[Sina] But you don't want to go in and call their baby ugly, right? And the answer is let's do things a different way.
+**[Sina]:** But you don't want to go in and call their baby ugly, right? And the answer is let's do things a different way.
 
 801
 01:13:26,020 --> 01:13:31,180
@@ -2905,7 +2390,7 @@ or being a sociopath as I like to call it.
 
 811
 01:14:09,500 --> 01:14:11,320
-[Anna] I was crossing my fingers this whole time ...
+**[Anna]:** I was crossing my fingers this whole time ...
 
 812
 01:14:11,320 --> 01:14:15,880
@@ -2917,7 +2402,7 @@ so my job is to basically tell people that their baby is ugly. In a nice way.
 
 814
 01:14:21,480 --> 01:14:24,480
-[Susan] Oh, so you should see Coyote, so ...
+**[Susan]:** Oh, so you should see Coyote, so ...
 
 815
 01:14:24,480 --> 01:14:31,620
@@ -2945,7 +2430,7 @@ you are aiming for these descriptions to be their own works of art.
 
 821
 01:15:13,180 --> 01:15:13,800
-[Susan] Yes.
+**[Susan]:** Yes.
 
 822
 01:15:13,800 --> 01:15:17,980
@@ -2953,15 +2438,15 @@ you are aiming for these descriptions to be their own works of art.
 
 823
 01:15:17,980 --> 01:15:26,340
-[Susan] Thank you. We didn't know that that would happen and so that is a great surprise with this project.
+**[Susan]:** Thank you. We didn't know that that would happen and so that is a great surprise with this project.
 
 824
 01:15:26,340 --> 01:15:28,960
-[Sina] Dennis, how are we doing on time?
+**[Sina]:** Dennis, how are we doing on time?
 
 825
 01:15:28,960 --> 01:15:34,900
-[Dennis] Well, I was going to ask you. Because you guys have had an unbelievably long day.
+**[Dennis]:** Well, I was going to ask you. Because you guys have had an unbelievably long day.
 
 826
 01:15:34,900 --> 01:15:43,580
@@ -3001,7 +2486,7 @@ incorporated into the website, beyond the descriptions and ... ?
 
 835
 01:16:36,800 --> 01:16:46,020
-[Sina] Yeah, so two things. The first is that if you look at WCAG, there's four foundational principles there.
+**[Sina]:** Yeah, so two things. The first is that if you look at WCAG, there's four foundational principles there.
 
 836
 01:16:46,020 --> 01:16:48,840
@@ -3154,7 +2639,7 @@ ok, we'll make it the maximum. Well now you've made it more challenging for anot
 
 873
 01:20:13,960 --> 01:20:20,840
-[Sina] So, I think we've been pretty lucky here not to have ... so I'm very well acquainted with the polarizing
+**[Sina]:** So, I think we've been pretty lucky here not to have ... so I'm very well acquainted with the polarizing
 
 874
 01:20:20,840 --> 01:20:23,820
@@ -3238,7 +2723,7 @@ Or at least, a stab at solving the problem.
 
 894
 01:22:11,080 --> 01:22:16,060
-[Susan] We have a ton of users, if anyone has actually looked at our site, who would love to be able to
+**[Susan]:** We have a ton of users, if anyone has actually looked at our site, who would love to be able to
 
 895
 01:22:16,060 --> 01:22:17,380
@@ -3246,19 +2731,19 @@ customize by turning off the grid.
 
 896
 01:22:17,380 --> 01:22:18,180
-[Sina] Yes.
+**[Sina]:** Yes.
 
 897
 01:22:18,180 --> 01:22:22,920
-[Susan] And, someday we'll convince our developer.
+**[Susan]:** And, someday we'll convince our developer.
 
 898
 01:22:22,920 --> 01:22:31,800
-[Anna] And actually, that tees up a second side to this, we're operating within a design that was already created
+**[Anna]:** And actually, that tees up a second side to this, we're operating within a design that was already created
 
 899
 01:22:31,800 --> 01:22:33,600
-[Dennis] That sounds familiar.
+**[Dennis]:** That sounds familiar.
 
 900
 01:22:33,600 --> 01:22:35,940
@@ -3266,15 +2751,15 @@ customize by turning off the grid.
 
 901
 01:22:35,940 --> 01:22:37,760
-[Anna] So there were ...
+**[Anna]:** So there were ...
 
 902
 01:22:37,760 --> 01:22:41,700
-[Susan] But it really, really, rather aggressive ...
+**[Susan]:** But it really, really, rather aggressive ...
 
 903
 01:22:41,700 --> 01:22:48,440
-[Anna] Very rigid, very rigid, and so that was one of the things, I remember Susan saying in the beginning was
+**[Anna]:** Very rigid, very rigid, and so that was one of the things, I remember Susan saying in the beginning was
 
 904
 01:22:48,440 --> 01:22:57,920
@@ -3290,7 +2775,7 @@ and is going to look the way it does, and our font is the way it is and ...
 
 907
 01:23:05,620 --> 01:23:08,280
-[Sina] There were certain things that were invariable. You always have those in projects.
+**[Sina]:** There were certain things that were invariable. You always have those in projects.
 
 908
 01:23:08,280 --> 01:23:15,020
@@ -3298,7 +2783,7 @@ And that's just the reality, but again I feel customization can help that after 
 
 909
 01:23:15,020 --> 01:23:20,560
-[Susan] But, just the work that our developers have done, and our designer had done,
+**[Susan]:** But, just the work that our developers have done, and our designer had done,
 
 910
 01:23:20,560 --> 01:23:29,200
@@ -3306,11 +2791,11 @@ our developer, designer team, have made them more sensitive, even to the front-f
 
 911
 01:23:29,200 --> 01:23:29,920
-[Sina] Agreed.
+**[Sina]:** Agreed.
 
 912
 01:23:29,920 --> 01:23:31,880
-[Susan] design aspects.
+**[Susan]:** design aspects.
 
 913
 01:23:31,880 --> 01:23:36,240
@@ -3318,7 +2803,7 @@ our developer, designer team, have made them more sensitive, even to the front-f
 
 914
 01:23:36,240 --> 01:23:45,280
-[Sina] Yes. So, low vision, cognitive, keyboard-only but sighted, fully blind, I think I'm missing two ...
+**[Sina]:** Yes. So, low vision, cognitive, keyboard-only but sighted, fully blind, I think I'm missing two ...
 
 915
 01:23:45,280 --> 01:23:48,860
@@ -3334,11 +2819,11 @@ I'm missing one
 
 918
 01:23:54,220 --> 01:23:55,680
-[Susan] ...
+**[Susan]:** ...
 
 919
 01:23:55,680 --> 01:24:02,260
-[Sina] And along the WCAG functional criteria docs was the overall basis for that
+**[Sina]:** And along the WCAG functional criteria docs was the overall basis for that
 
 920
 01:24:02,260 --> 01:24:07,700
@@ -3378,15 +2863,15 @@ other things like that, that have back end implications as well.
 
 929
 01:24:55,840 --> 01:24:59,640
-[Dennis] Well, I'm going to be the mean one and say, that is ...
+**[Dennis]:** Well, I'm going to be the mean one and say, that is ...
 
 930
 01:24:59,640 --> 01:25:00,580
-[Sina] You're so mean.
+**[Sina]:** You're so mean.
 
 931
 01:25:00,580 --> 01:25:04,220
-[Dennis] ... yeah, I know. Well, that's the worst thing I've been called today, so ...
+**[Dennis]:** ... yeah, I know. Well, that's the worst thing I've been called today, so ...
 
 932
 01:25:04,220 --> 01:25:12,620
@@ -3398,11 +2883,11 @@ the website. I think they all deserve a big round of applause.
 
 934
 01:25:14,760 --> 01:25:18,240
-[Applause]
+**[Applause]:**
 
 935
 01:25:18,240 --> 01:25:24,900
-[Dennis] Thank you so very much. The only thing I will add to this, which is totally unrelated to this is
+**[Dennis]:** Thank you so very much. The only thing I will add to this, which is totally unrelated to this is
 
 936
 01:25:24,900 --> 01:25:30,600
@@ -3414,7 +2899,7 @@ and please provide feedback, you know, was this helpful, was it not, was it miss
 
 938
 01:25:35,940 --> 01:25:37,960
-[Susan] Well, don't rate us if it wasn't helpful.
+**[Susan]:** Well, don't rate us if it wasn't helpful.
 
 939
 01:25:37,960 --> 01:25:40,320
@@ -3430,5 +2915,5 @@ More from the meetup side rather than the content side. Thank you so very much.
 
 942
 01:25:47,860 --> 01:25:51,540
-[Applause]
+**[Applause]:**
 
